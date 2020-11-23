@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AutoReplay.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Data.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Attacker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Defender.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TowerDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragDrop.cs" Line="30" Column="75" />
+      <File FileName="Assets\Scripts\CreateItem.cs" Line="21" Column="147" />
+      <File FileName="Assets\Scripts\RandomEnemy.cs" Line="17" Column="109" />
+      <File FileName="Assets\Scripts\UIController.cs" Line="6" Column="42" />
+      <File FileName="Assets\Scripts\GameplayEnd.cs" Line="6" Column="41" />
+      <File FileName="Assets\Scripts\AutoReplay.cs" Line="33" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
